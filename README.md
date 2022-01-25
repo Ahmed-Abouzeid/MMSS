@@ -20,4 +20,6 @@ pip install -r requirements.txt
 
 2- execute 'python main.py' on terminal or run the script from an IDE.
 
+3- after execution, to visualize results, run the Gephi software on the generated temporal meta-data in the graphs folder.
+
 

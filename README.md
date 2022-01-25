@@ -17,6 +17,7 @@ pip install -r requirements.txt
 
 ## Running the code on default parameters on covid-19- 100 users
 1- Unzip the data.zip file first before running the code.
-2- execute 'python main.py' on terminal or run the script from an IDE
+
+2- execute 'python main.py' on terminal or run the script from an IDE.
 
 

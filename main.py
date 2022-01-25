@@ -30,7 +30,7 @@ if __name__ == '__main__':
     parser.add_argument('--is_avg_method', type=bool, default = False)
     parser.add_argument('--show_simu_error', type=bool, default = True)
     parser.add_argument('--graphs', type=bool, default = False)
-    parser.add_argument('--sampling', type=bool, default = True)
+    parser.add_argument('--sampling', type=bool, default = False)
     parser.add_argument('--sample_size', type=int, default = 200)
     parser.add_argument('--adjacents_sample_size', type=int, default = None)
     config = parser.parse_args()

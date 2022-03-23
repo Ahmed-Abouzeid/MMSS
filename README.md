@@ -1,6 +1,6 @@
 # MMSS
 
-Python Implementation for the MMSS System for ISCRAM22 Submitted Manuscript Titled: Storytelling Simulation for Decision-Making Support to Mitigate Misinformation on Social Media
+Python Implementation for the MMSS System: Storytelling Simulation for Decision-Making Support to Mitigate Misinformation on Social Media
 
 # Visualization
 

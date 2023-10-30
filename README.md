@@ -1,4 +1,4 @@
-# MMSS
+# MMSS - Part of my PhD work
 
 Python Implementation for the MMSS System: Storytelling Simulation for Decision-Making Support to Mitigate Misinformation on Social Media
 
